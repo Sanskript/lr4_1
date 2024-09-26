@@ -1,0 +1,26 @@
+{
+  "0": {
+    "Name": "Default User",
+    "Role": "Guest"
+  },
+  "1": {
+    "Name": "Alice",
+    "Role": "Librarian"
+  },
+  "2": {
+    "Name": "Bob",
+    "Role": "Member"
+  },
+  "3": {
+    "Name": "Charlie",
+    "Role": "Member"
+  },
+  "4": {
+    "Name": "Dave",
+    "Role": "Administrator"
+  },
+  "5": {
+    "Name": "Eve",
+    "Role": "Member"
+  }
+}
